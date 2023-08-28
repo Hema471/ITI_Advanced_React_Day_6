@@ -3,10 +3,10 @@ export default function AboutMe() {
   return (
     <div>
       <div className="row bg-light justify-content-center m-1">
-        <div className="col-3 align-self-center">
+        <div className="col-sm-12 col-md-3 align-self-center">
           <p className="myp ">About Me</p>
         </div>
-        <div className="col-8">
+        <div className="col-sm-12 col-md-8">
           <br />
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis

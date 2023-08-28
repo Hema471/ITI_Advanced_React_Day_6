@@ -18,7 +18,7 @@ export default function App() {
     <Skills/>
     <MyP/>
 <div>
-      <div className="row m-5">
+      <div className="row m-2">
         <div className="col-sm-12 col-md-6 col-lg-4 ">
           <Portofolio bg="#959188" text="Web Design" />
           

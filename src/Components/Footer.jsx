@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="container ">
         <br />
         <div className="row  d-flex align-items-center">
-          <div className="col ">
+          <div className="col-sm-12 col-md-4">
             <h5>GET IN TOUCH</h5>
             <br />
             <p>
@@ -28,18 +28,21 @@ export default function Footer() {
           {/* 
 Contact Me */}
 
-          <button className="My2 col align-self-center">CONTACT ME</button>
-          <div className="col d-flex flex-row justify-content-end align-items-center">
+          <button className="My2 col-sm-12 col-md-4 align-self-center">
+            CONTACT ME
+          </button>
+
+          <div className="col-sm-12 col-md-4 d-flex flex-row justify-content-center align-items-center">
             <i className="fab fa-linkedin" style={{ margin: "10px" }}></i>
             <i className="fab fa-facebook" style={{ margin: "10px" }}></i>
             <i className="fab fa-twitter" style={{ margin: "10px" }}></i>
           </div>
           <div
-              className="text-end p-3"
-              style={{ backgroundColor: "rgba(0, 0, 0, 0.2)"}}
-            >
-              Copyright: &copy; {new Date().getFullYear()}
-            </div>
+            className="text-center p-3 "
+            style={{ backgroundColor: "rgba(0, 0, 0, 0.2)" }}
+          >
+            Copyright: &copy; {new Date().getFullYear()}
+          </div>
         </div>
       </div>
     </footer>
