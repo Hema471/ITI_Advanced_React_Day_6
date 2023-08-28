@@ -1,0 +1,20 @@
+footer {
+    background-color: black;
+}
+
+footer .row {
+    color: white;
+}
+.My2 {
+    background-color: black;
+    color: white;
+    padding: 15px 110px;
+    border: 2px white solid;
+  
+   
+}
+/* .My1 {
+
+   width: 20px;
+    
+} */

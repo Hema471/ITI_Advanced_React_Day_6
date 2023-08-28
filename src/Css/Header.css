@@ -1,0 +1,16 @@
+
+.con {
+    background-color: black;
+    color: white;
+    padding: 10px 50px;
+    border: 2px white solid;
+}
+
+
+.Home{
+    background-image: url(../Images/Img.jpg);
+    background-size: cover;
+    background-position: center center;
+
+}
+  

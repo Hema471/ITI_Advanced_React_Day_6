@@ -1,0 +1,21 @@
+.myu {
+width: 420px;
+height: 300px;
+color: white;
+font-size: 30px;
+margin: 5px;
+/* text-decoration: underline;
+text-underline-offset: 4px; */
+}
+.MyP {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+.custom-hr {
+    border: 2px white solid;
+    margin: 0 auto;
+   
+ 
+  }

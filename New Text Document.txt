@@ -1,0 +1,27 @@
+  @media (min-width: 576px) {
+    /* Small devices */
+    .imgh {
+      width: 100px; 
+    }
+  }
+  @media (min-width: 768px) {
+    /* Medium devices */
+    .imgh {
+      width: 400px;
+    }
+    .imgh {
+      height: 300px;
+     }
+  }
+  @media (min-width: 992px) {
+    /* Large devices */
+    .imgh {
+      width: 500px; 
+    }
+  }
+  @media (min-width: 1200px) {
+    /* Extra large devices */
+    .imgh {
+      width: 600px; 
+    }
+  }

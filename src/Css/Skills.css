@@ -1,0 +1,38 @@
+.mysk {
+    color: white;
+    text-align: center;
+   
+}
+.bg-custom{
+    background-color:#808080!important;
+}
+
+.progress {
+    border: 0 !important;
+    height: 40px !important;
+    border-radius: 1px !important;
+    
+ }
+.myp5 {
+ background-color: #96928d;
+ padding-top: 7px;
+ 
+ font-size: 13px;
+
+  }
+.mypro {
+    background-color: white !important;
+  }
+  .tc {
+    font-size: 30px;
+    
+  }
+  .tc2 {
+    font-size: 20px;
+    padding-left: 33%;
+    text-align: left;
+  }
+  .custom-hr {
+    margin: 0 auto;
+    width: 30%; /* Adjust as needed */
+  }

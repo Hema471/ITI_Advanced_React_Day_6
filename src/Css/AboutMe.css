@@ -1,0 +1,14 @@
+.myp {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+.do1 {
+        background-color: black;
+        color: white;
+        padding: 10px 50px;
+        border: 2px white solid;
+        text-decoration: none;
+
+}
